@@ -1,3 +1,7 @@
 # StockApp
 
-![Alt Text](file:///Users/fazilp/Downloads/stock.gif)
+
+
+![StockApp](file:///Users/fazilp/Downloads/stock.gif)
+
+
